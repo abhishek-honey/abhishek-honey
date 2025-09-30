@@ -14,6 +14,8 @@ Profiles:
 
 🔗 Stack Overflow: https://stackoverflow.com/users/8472053/abhishek-kumar-honey
 
+🔗 Hugging Face: https://huggingface.co/abhishekhoney
+
 Key Skills:
 
 Specializations: Vector Search 🔍, AI 🤖, LLM, MCP, Schema Design 🗂️, Performance Optimization ⚡, Installation and startup, Debugging
