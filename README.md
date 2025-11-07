@@ -16,6 +16,8 @@ Profiles:
 
 🔗 Hugging Face: https://huggingface.co/abhishekhoney
 
+🔗 Youtube: https://www.youtube.com/@honeyabhishek75
+
 Key Skills:
 
 Specializations: Vector Search 🔍, AI 🤖, LLM, MCP, Schema Design 🗂️, Performance Optimization ⚡, Installation and startup, Debugging
