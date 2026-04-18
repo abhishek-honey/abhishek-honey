@@ -2,7 +2,7 @@
 ### Lead Software Engineer | AI Infrastructure & Distributed Systems
 
 * [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@abhishekkumarhoney)
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhishek-kumar-honey-a05a28121/)
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhishekkumarhoney/)
 
 ### 👨‍💻 Executive Summary
 * I am a Lead Software Engineer specializing in the design and deployment of large-scale distributed systems, high-performance Java architectures, and cutting-edge AI infrastructure.
