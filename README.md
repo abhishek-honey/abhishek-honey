@@ -21,7 +21,7 @@
 * **Cloud & Infrastructure:** AWS, GCP, Azure, Kafka, Linux, Git, Jenkins, Observability Tools
 
 ### 🎥 Architectural Archives
-* I document my research and system design breakdowns on my YouTube channel, **[Github Coding Matrix](https://www.youtube.com/@abhishekkumarhoney)**. 
+* I document my research and system design breakdowns on my YouTube channel, **[Intelligence Coding Matrix](https://www.youtube.com/@abhishekkumarhoney)**. 
 * The channel serves as a comprehensive archive exploring the mathematics of vector search, the infrastructure behind Large Language Models, and the low-level constraints of distributed computing.
 
 ### 🎥 Featured Architectural Deep Dives
