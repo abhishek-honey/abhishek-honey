@@ -1,33 +1,90 @@
+<div align="center">
+
 # Abhishek Kumar Honey
 ### Lead Software Engineer | AI Infrastructure & Distributed Systems
 
-* [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@abhishekkumarhoney)
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhishekkumarhoney/)
+<p align="center">
+  <a href="https://www.youtube.com/@abhishekkumarhoney" style="text-decoration: none;">
+    <img src="youtube.png" alt="Subscribe on YouTube" width="28" style="vertical-align: middle; margin-right: 5px;"> <b>YouTube</b>
+  </a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/abhishekkumarhoney/" style="text-decoration: none;">
+    <img src="linkedin.png" alt="Connect on LinkedIn" width="28" style="vertical-align: middle; margin-right: 5px;"> <b>LinkedIn</b>
+  </a>
+</p>
 
-### 👨‍💻 Executive Summary
-* I am a Lead Software Engineer specializing in the design and deployment of large-scale distributed systems, high-performance Java architectures, and cutting-edge AI infrastructure.
-* My engineering philosophy is rooted in "first-principles" thinking—moving beyond high-level abstractions to master the underlying mechanics of scalable, resilient platforms.
-* I have a proven track record of architecting robust data platforms for over 300 enterprise clients (maintaining a 90+ NPS) and engineering backend systems capable of processing large datasets. 
+</div>
 
-### 🏗️ Core Engineering Focus & Impact
-* **AI Infrastructure & LLMs:** Empowering generative AI applications by designing advanced schemas, integrating vector search for Retrieval-Augmented Generation (RAG), and optimizing Chain-of-Thought prompting and the Model Context Protocol (MCP).
-* **Distributed Systems & Scale:** Worked on highly-concurrent Java (Spring Boot, JAX-RS) microservices used by thousands of users, managing regional OTP flows, and driving seamless cloud migrations and deployments.
-* **Database & Search Architecture:** Engineering high-throughput sharded clusters, implementing custom filter queries, and tuning complex index structures across MongoDB and Elasticsearch to overcome critical memory constraints.
-* **Performance & Low-Level Mechanics:** Proactively resolving deep-rooted JVM memory leaks and optimizing garbage collection to drive significant reductions in system response times and latency.
+---
 
-### 💻 Technical Arsenal
-* **Languages:** Java (Spring Boot, Spring Data), Python, TypeScript, JavaScript, SQL, NoSQL
-* **Databases & Search:** MongoDB (Atlas, Enterprise, Sharded Clusters), Elasticsearch, Lucene, Apache Solr, Cassandra, Redis, PostgreSQL, Oracle, MySQL
-* **Cloud & Infrastructure:** AWS, GCP, Azure, Kafka, Linux, Git, Jenkins, Observability Tools
+```json
+{
+  "architect": "Abhishek Kumar Honey",
+  "role": "Lead Software Engineer",
+  "philosophy": "First-principles thinking—moving beyond abstractions to master the mechanics of scalable, resilient platforms.",
+  "focus": ["Multi-Agent Orchestration", "Vector Search (HNSW)", "JVM Optimization"],
+  "impact": "Architected mission-critical data platforms for 300+ enterprise clients."
+}
+```
 
-### 🎥 Architectural Archives
-* I document my research and system design breakdowns on my YouTube channel, **[Intelligence Coding Matrix](https://www.youtube.com/@abhishekkumarhoney)**. 
-* The channel serves as a comprehensive archive exploring the mathematics of vector search, the infrastructure behind Large Language Models, and the low-level constraints of distributed computing.
+🔭 **Currently Building:** Lightweight agentic workflows for distributed RAG pipelines.  
+🌱 **Currently Exploring:** The intersection of active inference (Free Energy Principle) and LLM context pruning.  
+💬 **Ask me about:** Resolving JVM memory leaks, sharding MongoDB at scale, or the physics of computation.  
 
-### 🎥 Featured Architectural Deep Dives
-| Distributed Systems: LSM-Trees & Write-Heavy Workloads | AI Infrastructure: The RAG Ecosystem | System Architecture: The Continuum of Consistency |
+---
+
+## 🏗️ Core Engineering Impact
+
+* **AI & Unified Search Architectures:** Engineered robust RAG frameworks and multi-agent orchestration systems using LangChain, OpenAI, and Gemini to automate complex workflows. Implemented custom HNSW vector indexing and fine-tuned hybrid, semantic, and lexical search capabilities.
+* **Distributed Systems & Global Scale:** Architected highly-concurrent Spring Boot microservices managing regional OTP flows via SMPP protocol across 10 African countries, and designed API layers capable of querying 3-billion+ row datasets for real-time analytics.
+* **Database & Infrastructure Optimization:** Engineered high-throughput sharded clusters and drove seamless, high-availability cloud migrations across AWS, GCP, Azure, and on-premise environments for enterprise mission-critical workloads.
+* **Performance & Low-Level Mechanics:** Proactively profiled backend APIs to resolve deep-rooted JVM memory leaks, optimized garbage collection, and built custom telemetry pipelines to enhance enterprise data export capabilities.
+
+## 🌌 The System Architecture
+*How I build, from the cognitive layer down to the bare metal.*
+
+| Layer | Technologies |
+| :--- | :--- |
+| **Cognitive (AI & Search)** | RAG, Multi-Agent Systems, HNSW, LangChain, OpenAI, Gemini |
+| **Application (Logic & APIs)** | Java (Spring Boot/Spring Data), Python, TypeScript, Microservices |
+| **State (Data & Persistence)** | MongoDB (Atlas/Vector), Elasticsearch, Presto, Cassandra, Redis, SQL |
+| **Physical (Cloud & Infra)** | AWS, GCP, Azure, Kafka, RabbitMQ, Linux, eBPF Telemetry |
+
+---
+
+## 💼 Professional Experience & Track Record
+
+### **Consulting Engineer** | MongoDB *(Apr 2021 – Oct 2025)*
+* **AI & Enterprise Scale:** Architected AI-native data platforms and ingestion pipelines for 50+ enterprise clients across 20+ industries (maintaining a 90+ NPS), consulting 300+ enterprise teams on large-scale data handling strategies.
+* **Agentic Orchestration & Search:** Built end-to-end RAG frameworks and multi-agent systems using LangChain, OpenAI, and Gemini. Implemented custom HNSW vector indexing, dense/sparse models, and unified hybrid search capabilities.
+* **Cloud Architecture:** Managed seamless high-availability cloud migrations across AWS, GCP, Azure, and on-premise infrastructure, engineering high-throughput sharded clusters for mission-critical workloads.
+
+### **Senior Software Engineer** | Velankani Communications Technologies *(Aug 2018 – Apr 2021)*
+* **High-Concurrency Systems:** Developed Spring Boot microservices for enterprise clients such as DataMi (Airtel TV), managing concurrent logins and orchestrating regional OTP flows via SMPP protocol across 10 African countries.
+* **JVM Optimization & Telemetry:** Profiled backend APIs to eliminate complex JVM memory leaks, designed secure API integrations to decrypt Cisco SOR files, and built high-capacity telemetry pipelines.
+
+### **Software Engineer** | PointCross Life Science *(Apr 2017 – Aug 2018)*
+* **Big Data Analytics:** Engineered a Java (JAX-RS) OData REST API layer querying 3-billion+ row datasets (900+ columns) using Presto and Solr for real-time analytics.
+* **Memory Optimization:** Developed hybrid search strategies to overcome system memory limits and authored R package wrappers to expose web services for data science workflows.
+
+### **Software Developer** | Logicode *(Sep 2016 – Feb 2017)*
+* **IDE Development:** Engineered a cross-platform JavaFX IDE featuring code visualization and behavioral metadata tracking; solved 200+ complex algorithmic problems covering advanced graph theory and data structures.
+
+### **Test Engineer** | Infosys *(May 2015 – Jul 2016)*
+* **Automation & Data Integrity:** Debugged high-volume SQL queries and data ingestion workflows while creating automated test suites to cut down manual testing cycles.
+
+---
+
+## 🎥 Architectural Archives: Intelligence Coding Matrix
+
+I document my research and system design breakdowns on my YouTube channel, **[Intelligence Coding Matrix](https://www.youtube.com/@abhishekkumarhoney)**. The channel serves as a comprehensive archive exploring the mathematics of vector search, the infrastructure behind Large Language Models, and the low-level constraints of distributed computing to mentor the next generation of developers.
+
+### Featured Deep Dives
+
+| Distributed Systems: LSM-Trees | AI Infrastructure: RAG Ecosystem | The Continuum of Consistency |
 | :---: | :---: | :---: |
 | [![Write Heavy Workloads](https://img.youtube.com/vi/9r_ruCdMS8A/hqdefault.jpg)](https://www.youtube.com/watch?v=9r_ruCdMS8A) | [![RAG Ecosystem](https://img.youtube.com/vi/I6pkttiATdc/hqdefault.jpg)](https://www.youtube.com/watch?v=I6pkttiATdc) | [![Distributed Consistency](https://img.youtube.com/vi/iXHQlbACyO0/hqdefault.jpg)](https://www.youtube.com/watch?v=iXHQlbACyO0) |
+
 <details>
 <summary><b>📂 Click to expand the index of 100+ architectural transcripts and video breakdowns</b></summary>
 <br>
@@ -186,5 +243,8 @@
 
 </details>
 
----
-*Open to discussing technology, collaborating on complex system designs, or exploring consulting opportunities.*
+<br>
+
+<div align="center">
+  <i>Open to discussing technology, collaborating on complex system designs, or exploring consulting opportunities.</i>
+</div>
