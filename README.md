@@ -4,6 +4,10 @@
 ### Lead Software Engineer | AI Infrastructure & Distributed Systems
 
 <p align="center">
+<a href="https://calendar.app.google/m4ffmZ7rS8FkNJkA8" style="text-decoration: none;">
+    <b>🗓️ Book 1:1 Call</b>
+  </a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@abhishekkumarhoney" style="text-decoration: none;">
     <img src="youtube.png" alt="Subscribe on YouTube" width="28" style="vertical-align: middle; margin-right: 5px;"> <b>YouTube</b>
   </a>
@@ -29,7 +33,8 @@
 
 🔭 **Currently Building:** Lightweight agentic workflows for distributed RAG pipelines.  
 🌱 **Currently Exploring:** The intersection of active inference (Free Energy Principle) and LLM context pruning.  
-💬 **Ask me about:** Resolving JVM memory leaks, sharding MongoDB at scale, or the physics of computation.  
+🗓️ **Schedule a Meeting:** [Book a 1:1 Call / Technical Discussion](https://calendar.app.google/m4ffmZ7rS8FkNJkA8)  
+💬 **Ask me about:** Resolving JVM memory leaks, sharding MongoDB at scale, or the physics of computation.
 
 ---
 
